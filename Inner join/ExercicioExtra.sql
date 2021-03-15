@@ -22,9 +22,6 @@ primary key(id)
 );
 
 
-
-
-
 create table tb_produto(
 id bigint auto_increment,
 nome varchar(255) not null,
